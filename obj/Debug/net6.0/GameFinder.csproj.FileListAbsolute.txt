@@ -1,0 +1,15 @@
+c:\Users\Sam\Desktop\GameFinder\bin\Debug\net6.0\GameFinder.exe
+c:\Users\Sam\Desktop\GameFinder\bin\Debug\net6.0\GameFinder.deps.json
+c:\Users\Sam\Desktop\GameFinder\bin\Debug\net6.0\GameFinder.runtimeconfig.json
+c:\Users\Sam\Desktop\GameFinder\bin\Debug\net6.0\GameFinder.dll
+c:\Users\Sam\Desktop\GameFinder\bin\Debug\net6.0\GameFinder.pdb
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.csproj.AssemblyReference.cache
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.AssemblyInfoInputs.cache
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.AssemblyInfo.cs
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.csproj.CoreCompileInputs.cache
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.dll
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\refint\GameFinder.dll
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.pdb
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\GameFinder.genruntimeconfig.cache
+c:\Users\Sam\Desktop\GameFinder\obj\Debug\net6.0\ref\GameFinder.dll
